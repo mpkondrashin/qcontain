@@ -2,7 +2,7 @@
 # QContain - automatically encrypt malware quarantine folder files
 
 <p align="center">
-  <img src="media/qcontain.jpeg" width="600"/>
+  <img src="media/qcontain.jpeg" width="400"/>
 </p>
 
 **QContain encrypts files in Trend Micro Server Protect quarantine folder**
