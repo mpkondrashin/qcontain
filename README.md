@@ -25,7 +25,7 @@ qcontain.exe
 
 ## Configuration
 
-Configuration file is ```config.yaml```
+Configuration file is ```C:\Program Files\QContain\config.yaml```
 
 Example:
 ```yaml
