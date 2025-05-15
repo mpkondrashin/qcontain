@@ -23,4 +23,4 @@ jobs:
         if: startsWith(github.ref, 'refs/tags/')
         with:
           files: |
-            certlist_windows.zip
+            qcontain_windows.zip
