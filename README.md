@@ -10,6 +10,7 @@
 ## Key Features:
 1. Automatically encrypts files in Trend Micro Server Protect quarantine folder.
 2. Decryption can be performed using any ZIP utility (see known issues).
+3. Operates automatically in the background as Windows service.
 
 ## Installation
 
