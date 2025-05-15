@@ -44,7 +44,7 @@ target:
   encryption: 1 # Encryption algorithm to use. Available values: 1 (Standard ZIP Encryption), 2 (AES128), 3 (AES192), 4 (AES256)
 ```
 
-To change configuration edit config.yaml file and restart QContain service.
+To change configuration edit ```C:\Program Files\QContain\config.yaml``` file and restart QContain service.
 
 ## System Requirements
 
