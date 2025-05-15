@@ -15,12 +15,12 @@
 ## Installation
 
 1. Download QContain distributive from  [releases](https://github.com/mpkondrashin/qcontain/releases/latest).
-2. Unpack ZIP archive
+2. Unpack ZIP archive.
 3. Run following command (as administrator):
 ```commandline
 qcontain.exe
 ```
-4. Follow setup instructions
+4. Follow setup instructions.
 5. It will install QContain service to ```C:\Program Files\QContain```  folder, generate configuration file and start the service.
 
 ## Configuration
