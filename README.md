@@ -75,4 +75,4 @@ Encryption passsword is stored in plain text in configuration file.
 ### Restore from the quarantine
 Restore from the quarantine of the Trend Micro Server Protect will not work.
 
-To restore file from the quarantine, you need to decrypt it to folder excluded from antimalware scanning. Or restored to Server Protect quarantine folder, but after stopping QContain service.
+To restore file from the quarantine, you need to decrypt it to folder excluded from antimalware scanning or restored to Server Protect quarantine folder, but after stopping QContain service.
