@@ -71,3 +71,8 @@ Encryption algorithms 2, 3, and 4 are not supported by all ZIP utilities.
 
 ### Password security
 Encryption passsword is stored in plain text in configuration file.
+
+### Restore from the quarantine
+Restore from the quarantine of the Trend Micro Server Protect will not work.
+
+To restore file from the quarantine, you need to decrypt it to folder excluded from antimalware scanning. Or restored to Server Protect quarantine folder, but after stopping QContain service.
