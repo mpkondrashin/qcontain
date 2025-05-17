@@ -79,3 +79,6 @@ To restore file from the quarantine, you need to decrypt it to folder excluded f
 
 ### Quarantine folder change
 If quarantine folder in Server Protect is changed, QContain configuration should be updated accordingly.
+
+### Installation folder
+QContain is always installed to ```C:\Program Files\QContain``` folder.
